@@ -11,7 +11,7 @@ The objective of this task is to help our client conduct an initial investigatio
 
 As you delve deeper into the world of cybersecurity, you will come to appreciate the critical role it plays in protecting organisations against cyber threats. With the ever-increasing reliance on technology and the internet, cybersecurity has become a vital aspect of any organisation's operations. It is no longer a question of whether an organisation will be targeted but rather a question of when. This task provides you with an excellent opportunity to learn and gain practical experience in the cybersecurity field while making a positive impact on our client's security posture.
 
-## Solution Investigation
+## Investigation
 Based on [MITRE ATT&CK Framework](https://attack.mitre.org/) and Open-Source Intelligence (OSINT) tools:
 
 APT34
